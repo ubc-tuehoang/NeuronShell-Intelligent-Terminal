@@ -49,16 +49,14 @@ NeuronShell — Intelligent Terminal, Supercharged with AI
 
 ----------------------
 
-### Command as Follow: 
-
-### 💡 Command Prefixes
+### Command Prefixes
 
 You can interact with different AI models directly from your terminal by using simple command prefixes:
 
 - `ai:` → Routes your prompt to **OpenAI** (e.g., GPT-4o)
 - `gem:` → Routes your prompt to **Gemini AI**
 
-#### 🧪 Example Usage
+#### Example Usage
 
 
 - `ai:` what's the difference between a list and a tuple in Python?
