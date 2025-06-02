@@ -53,19 +53,15 @@ NeuronShell — Intelligent Terminal, Supercharged with AI
 
 You can interact with different AI models directly from your terminal by using simple command prefixes:
 
-- `ai:` → Routes your prompt to **OpenAI** (e.g., GPT-4o)
-- `gem:` → Routes your prompt to **Gemini AI**
+- `🤖 ai:` → Routes your prompt to **OpenAI** (e.g., GPT-4o)
+
+- `💎 gem:` → Routes your prompt to **Gemini AI**
 
 #### Example Usage
 
+- `💎 gem:` summarize the theory of general relativity in simple terms.
 
-- `ai:` what's the difference between a list and a tuple in Python?
-
-- `gem:` summarize the theory of general relativity in simple terms.
-
-- `ai:`  explain this bash error
-
-- `gem:` create a Dockerfile for a Flask app
+- `🤖 ai:`  compress all PNGs in this folder
 
 ![alt text](image-1.png)
 
@@ -73,6 +69,6 @@ You can interact with different AI models directly from your terminal by using s
 
 ### Finally, Making AI Fun:
 
-- gem: create python code to detect melanoma 
+- `💎 gem:` create python code to detect melanoma 
 
 ![alt text](image-2.png)
