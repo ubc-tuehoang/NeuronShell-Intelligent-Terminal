@@ -41,11 +41,11 @@ NeuronShell — Intelligent Terminal, Supercharged with AI
 
 - Run LLM-powered tests: ai: write test cases for this function
 
-- Autocomplete shell commands based on intent: ai: compress all PNGs in this folder
+- *Autocomplete shell commands based on intent: ai: compress all PNGs in this folder
 
-- Integrate with git, Docker, or Kubernetes: Smart suggestions for everyday CLI tools
+- *Integrate with git, Docker, or Kubernetes: Smart suggestions for everyday CLI tools
 
-- Plugin system: Add custom tools, APIs, or model backends (like OpenAI, Gemini, Ollama local models, etc.)
+- *Plugin system: Add custom tools, APIs, or model backends (like OpenAI, Gemini, Ollama local models, etc.)
 
 ----------------------
 
